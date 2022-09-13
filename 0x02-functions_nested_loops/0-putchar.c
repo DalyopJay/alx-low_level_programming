@@ -10,6 +10,7 @@ char main(void)
 	printf('h');
 	printf('a');
 	printf('r');
-	
+	printf('\n');
+
 	return (0);
 }
