@@ -3,7 +3,7 @@
 /**
  * void reset_to_98
  * @n:parameter
- * always return 0;
+ * Return: nothing
 */
 
 void reset_to_98(int *n)
