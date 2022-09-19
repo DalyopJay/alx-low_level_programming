@@ -2,6 +2,8 @@
 
 /**
  *swap_int - swat two ints values
+ *@a:first int
+ *@b:second int
  *return:void
 */
 
