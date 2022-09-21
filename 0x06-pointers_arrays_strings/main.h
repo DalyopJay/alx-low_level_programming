@@ -1,7 +1,8 @@
+#ifndef MAIN_H
 #define MAIN_H
-#include <stdio>
+#include <stdio.h>
 /**
- * main prototypes()
+ * void prototypes()
  * int prototypes()
  * char prototypes()
 */
@@ -16,4 +17,4 @@ char *cap_string(char *);
 char *leet(char *);
 
 
-#endif /"MAIN_H"/
+#endif /*MAIN_H*/
