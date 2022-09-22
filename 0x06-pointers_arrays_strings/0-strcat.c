@@ -2,9 +2,9 @@
 #include <string.h>
 
 /**
- * _strcat - concatenates the string pointed to by @src to the end of the string pointed to by @dest
- * @dest: string that will be appended
- * @src: string to be concatenated
+ * _strcat - concatenates two strings
+ * @dest: pointer to char
+ * @src: pointer to char
  *
  * return: returns @dest
 */
