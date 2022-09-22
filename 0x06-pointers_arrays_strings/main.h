@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * void prototypes()
- * int prototypes()
- * char prototypes()
+ * File: main.h
+ * Auth: Dalyopjay
+ * Desc: Header file containing prototypes for all functions used in the 0x06-pointer_arrays_strings.
 */
 
 int _putchar(char c);
@@ -18,4 +18,4 @@ char *string_toupper(char *);
 char *cap_string(char *);
 char *leet(char *);
 
-#endif /*MAIN_H*/
+#endif
