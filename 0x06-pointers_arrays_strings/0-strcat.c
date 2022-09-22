@@ -2,11 +2,10 @@
 #include <string.h>
 
 /**
- * _strcat - concatenates two strings
- * @dest: pointer to char
- * @src: pointer to char
- *
- * return: returns @dest
+ *_strcat - concatenates two strings
+ *@dest: pointer to char
+ *@src: pointer to char
+ *return: concantinated pointer string
 */
 char *_strcat(char *dest, char *src)
 {
