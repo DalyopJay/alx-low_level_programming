@@ -1,10 +1,10 @@
 #ifndef MAIN_H
 #define MAIN_H
 /**
- * File: holberton.h
- * Auth: Brennan D Baraban
+ * File: main.h
+ * Auth: dalyopjay
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x06-pointers_arrays_strings directory.
+ * used in the 0x07. C-Even_more_pointers_arrays_strings directory.
 */
 #include <stddef.h>
 
@@ -18,3 +18,5 @@ char *_strstr(char *haystack, char *needle);
 void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
 void set_string(char **s, char *to);
+
+#endif
